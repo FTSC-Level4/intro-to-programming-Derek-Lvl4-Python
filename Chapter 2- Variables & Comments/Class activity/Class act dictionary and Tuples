@@ -1,0 +1,12 @@
+
+#dictionary
+food = {1:'Burger',2:'Fries',3:'Soup'}
+print(food[1])
+
+#list
+list = ['hahaha','Burger',2,'Fries',3,'Soup']
+print(list[1])
+
+#tuples
+tuple = ("apple", "banana", [4,5,6], 'saging')
+print(tuple[2])
